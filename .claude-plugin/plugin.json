@@ -1,0 +1,9 @@
+{
+  "name": "scientific-coding",
+  "description": "Principles and rules for writing faithful scientific code. Scientific code serves truth, not users. This plugin teaches Claude the fundamental differences between scientific and industry coding.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Cornelius Emde"
+  },
+  "repository": "https://github.com/cemde/Scientific-Coding-Skill"
+}

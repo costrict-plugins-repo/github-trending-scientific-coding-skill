@@ -1,0 +1,14 @@
+{
+  "name": "scientific-coding-skill",
+  "owner": {
+    "name": "Cornelius Emde"
+  },
+  "plugins": [
+    {
+      "name": "scientific-coding",
+      "source": "./",
+      "description": "Principles and rules for writing faithful scientific code.",
+      "version": "0.1.0"
+    }
+  ]
+}
